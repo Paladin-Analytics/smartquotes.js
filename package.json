@@ -1,13 +1,13 @@
 {
   "name": "@paladin-analytics/smartquotes",
-  "version": "2.3.2",
+  "version": "2.3.3",
   "author": "Kelly Martin",
   "contributors": [
     "Kelly Martin",
     "Callum Macrae"
   ],
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/@paladin-analytics"
+    "registry": "https://npm.pkg.github.com/@paladin-analytics"
   },
   "description": "Smart quotes are smart typography.",
   "homepage": "http://github.com/Paladin-Analytics/smartquotes.js",
