@@ -12,9 +12,9 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
         with:
-          node-version: 12
+          node-version: 14
           registry-url: https://npm.pkg.github.com/
-          scope: '@paladin-analytics'
+          scope: "@paladin-analytics"
       - run: npm install
       - run: npm publish
         env:
