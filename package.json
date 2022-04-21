@@ -7,7 +7,7 @@
     "Callum Macrae"
   ],
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/@paladin-analytics"
+    "registry": "https://npm.pkg.github.com/@paladin-analytics"
   },
   "description": "Smart quotes are smart typography.",
   "homepage": "http://github.com/Paladin-Analytics/smartquotes.js",
