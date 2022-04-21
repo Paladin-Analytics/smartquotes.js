@@ -6,6 +6,9 @@
     "Kelly Martin",
     "Callum Macrae"
   ],
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/@paladin-analytics"
+  },
   "description": "Smart quotes are smart typography.",
   "homepage": "http://github.com/kellym/smartquotes.js",
   "license": "MIT",
