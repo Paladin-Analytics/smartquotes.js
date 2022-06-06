@@ -27,7 +27,7 @@
     "url": "https://github.com/Paladin-Analytics/smartquotes.js/issues"
   },
   "scripts": {
-    "build": "webpack",
+    "build": "webpack"
   },
   "devDependencies": {
     "babel-loader": "^7.1.2",
